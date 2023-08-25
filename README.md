@@ -11,6 +11,7 @@
 * <a href="https://frbot25.github.io/Hangman/" target="_blank">Hangman</a>
 * <a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
 * [Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
+* * [Google](https://google.com){target="_blank"}
 
 ### Visitor count
 [![Hits](https://hits.sh/github.com/Frbot25/hits.svg)](https://hits.sh/github.com/Frbot25/hits/)
