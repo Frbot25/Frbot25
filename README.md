@@ -7,7 +7,16 @@
 * test
 
   ### Visitor count
+
+  ### Language Skills
+  <script src="
+https://cdn.jsdelivr.net/npm/iconv-lite@0.6.3/lib/index.min.js
+"></script>
+
+<img align="left" alt"react" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
 <!--
+
 **Frbot25/Frbot25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
