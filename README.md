@@ -4,7 +4,7 @@
 
 
 ### My projects
-* test
+* [Hangman vanilla js](https://frbot25.github.io/Hangman/)
 
 ### Visitor count
 [![Hits](https://hits.sh/github.com/Frbot25/hits.svg)](https://hits.sh/github.com/Frbot25/hits/)
