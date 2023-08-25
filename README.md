@@ -9,6 +9,7 @@
 ### My projects
 * [Hangman vanilla js](https://frbot25.github.io/Hangman/ target="_blank")
 * <a href="https://frbot25.github.io/Hangman/" target="_blank">Hangman</a>
+* <a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
 
 ### Visitor count
 [![Hits](https://hits.sh/github.com/Frbot25/hits.svg)](https://hits.sh/github.com/Frbot25/hits/)
