@@ -3,7 +3,7 @@
 - 😄 I like: movies, series, video games, programming and many other things...
 - 
 ### Contact me
-*[<img align="left" alt="react" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/Frbot25)
+[<img align="left" alt="react" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/Frbot25)
           
 
 
