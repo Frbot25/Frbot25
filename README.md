@@ -7,7 +7,7 @@
 * test
 
   ### Visitor count
-
+[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
   ###  Tools
 
 <img align="left" alt="react" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
