@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+!/usr/bin/env bash
 #
 # Commit Bot by Steven Kneiser
 #
@@ -37,7 +37,7 @@ echo "$info"
 echo
 echo "Sauvegarde de nuit: $(date)" >>/tmp/mybackup.log
 # Ship it
-git add README.md
+git add ..
 git commit -m "$info"
 git push origin main # or "master" on old setups
 
