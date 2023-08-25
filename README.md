@@ -5,7 +5,7 @@
 ### Contact me
 [<img align="left" alt="react" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/Frbot25)
           
-
+<br/>
 
 ### My projects
 * [Hangman vanilla js](https://frbot25.github.io/Hangman/ target="_blank")
