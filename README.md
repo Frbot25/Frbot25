@@ -7,8 +7,7 @@
 
 
 ### My projects
-* [Hangman vanilla js](https://frbot25.github.io/Hangman/)
-
+* [Hangman vanilla js](https://frbot25.github.io/Hangman/ target="_blank")
 
 
 ### Visitor count
