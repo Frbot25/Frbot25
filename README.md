@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 😄 I like: ...
+- 😄 I like: movies, series, video games, programming and many other things...
 - 
 ### Contact me
 * [Twitter](https://)
 
 
 ### My projects
-* [Hangman vanilla js](https://frbot25.github.io/Hangman/)
+* [Hangman vanilla js](https://frbot25.github.io/Hangman/){:target="_blank"}
 
 ### Visitor count
 [![Hits](https://hits.sh/github.com/Frbot25/hits.svg)](https://hits.sh/github.com/Frbot25/hits/)
