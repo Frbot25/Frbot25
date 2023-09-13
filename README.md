@@ -10,7 +10,7 @@
 ### My projects
 * [Hangman vanilla js](https://frbot25.github.io/Hangman/)
 * [Devinterest](https://devinterest-front.surge.sh/)
-* [Portoflio](https://webprogramming.fr/)
+* [Portoflio](https://webprogramming.fr/?target=_blank)
 
 
 ### Visitor count
