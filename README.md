@@ -11,9 +11,7 @@
 * [Hangman vanilla js](https://frbot25.github.io/Hangman/)
 * [Devinterest](https://devinterest-front.surge.sh/)
 * [Portoflio](https://webprogramming.fr/)
-* $(document.links).filter(function() {
-    return this.hostname != window.location.hostname;
-}).attr('target', '_blank');
+* <a href="https://webprogramming.fr" >Webprogramming</a>
 
 
 ### Visitor count
